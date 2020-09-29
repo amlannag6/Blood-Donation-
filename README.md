@@ -1,3 +1,4 @@
+# Blood -Donation 
 # Description
 It happens in every 2 seconds, a person needs blood to survive from the surgery, cancer treatment, or a traumatic injury. Time is a key component in the medical field. One time consumed is another life lost.
 An app that will assist people to get connected with the blood donor.  It would be a big asset for the people who need urgent blood, even rare types of blood. People who want to donate blood can create a donor Profile which will consist of essential info about the donor. The profile info will include the donor name, address and contact details and blood group so it can be easier for the recipients to contact the blood donors at the time of need with ease. Recipients can search the donor by blood Group.
