@@ -4,6 +4,10 @@ It happens in every 2 seconds, a person needs blood to survive from the surgery,
 An app that will assist people to get connected with the blood donor.  It would be a big asset for the people who need urgent blood, even rare types of blood. People who want to donate blood can create a donor Profile which will consist of essential info about the donor. The profile info will include the donor name, address and contact details and blood group so it can be easier for the recipients to contact the blood donors at the time of need with ease. Recipients can search the donor by blood Group.
 The aim is to connect donors with patients that urgently need it on the go. A mobile application will make that happen. The design will be made for the donor's perspective.  This app will be easy to use and user-friendly to ease the process of getting blood from a donor in a short time. In a future update, the app will redirect by using GPS and the nearest hospital facilities.  
 
+# Focus Topics for future
+Future implementation can have more privacy towards users user info such as address phone number etc. Find more Users that can try out the app to give us some 
+ideas or user concerns 
+
 
 # Target Audience: 
 
