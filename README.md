@@ -6,7 +6,7 @@ The aim is to connect donors with patients that urgently need it on the go. A mo
 
 # Focus Topics for future
 Future implementation can have more privacy towards users user info such as address phone number etc. Find more Users that can try out the app to give us some 
-ideas or user concerns. Contact chat messaging system with the user you want to contact through the app to request blood
+ideas or user concerns. Contact chat messaging system with the user you want to contact through the app to request blood. Test with more various users in the health feild to get their opinions on what needs to be added that is missing because they have the most information about the blood sector and other major features that is missing in the app.
 
 
 # Target Audience: 
